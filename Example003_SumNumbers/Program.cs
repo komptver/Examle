@@ -1,4 +1,5 @@
 ﻿int numberA = 5;
 int numberB = 7;
-int result = numberA + numberB;
+int numberC = 25;
+int result = numberC - (numberA + numberB);
 Console.WriteLine(result);
