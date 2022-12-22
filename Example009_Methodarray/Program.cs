@@ -14,10 +14,8 @@ int max = Max(Max(array[0], array[1], array[2]), Max(array[3], array[4], array[5
 
 Console.WriteLine($"The muximum number is {max}");
    
-*/
-
-// Task2. Имеется одномерный массив (array) из n элементов, требуется
-// найти элемент массива, равный find.
+Task2. Имеется одномерный массив (array) из n элементов, требуется
+найти элемент массива, равный find.
 
 int [] array = {1, 2, 31, 5, 87, 69, 27, 44, 31};
 
@@ -36,3 +34,4 @@ while(index < n)   // если index < n, то переходим к array[index
 
     index = index + 1;
 }
+*/
